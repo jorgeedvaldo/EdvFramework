@@ -1,0 +1,4 @@
+c:\users\edvaldo\documents\visual studio 2012\Projects\EdvFramework\EdvFramework\bin\Debug\EdvFramework.dll
+c:\users\edvaldo\documents\visual studio 2012\Projects\EdvFramework\EdvFramework\bin\Debug\EdvFramework.pdb
+c:\users\edvaldo\documents\visual studio 2012\Projects\EdvFramework\EdvFramework\obj\Debug\EdvFramework.dll
+c:\users\edvaldo\documents\visual studio 2012\Projects\EdvFramework\EdvFramework\obj\Debug\EdvFramework.pdb

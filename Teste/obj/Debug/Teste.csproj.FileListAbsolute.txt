@@ -1,0 +1,12 @@
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\bin\Debug\Teste.exe.config
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\bin\Debug\Teste.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\bin\Debug\Teste.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\bin\Debug\EdvFramework.dll
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\bin\Debug\EdvFramework.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\obj\Debug\Teste.csproj.GenerateResource.Cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\obj\Debug\Teste.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\obj\Debug\Teste.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\EdvFramework\Teste\obj\Debug\Teste.Form2.resources
