@@ -1,4 +1,4 @@
-# EdvFramework
+# About EdvFramework
 Have a different style!
 <p align="center">
   <img src="logo_description.png" alt="Logo" width="300px"/>
