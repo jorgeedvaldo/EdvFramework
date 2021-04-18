@@ -7,7 +7,7 @@ Have a different style!
 
 EdvFramework is a framework created by Edivaldo Jorge, with the aim of changing the standardized style of Windows forms
 
-#How to use
+# How to use
 1. Add a new reference to your project and choose the EdvFramework.dll file.
 2. Create a new form and give it a name.
 3. Double-click on the form to view in code mode.
