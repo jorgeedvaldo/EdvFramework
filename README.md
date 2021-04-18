@@ -1,8 +1,10 @@
 # About EdvFramework
 Have a different style!
+
 <p align="center">
   <img src="logo_description.png" alt="Logo" width="300px"/>
 </p>
+
 EdvFramework is a framework created by Edivaldo Jorge, with the aim of changing the standardized style of Windows forms
 
 #How to use
@@ -69,4 +71,4 @@ namespace Tutorial
 }
 ```
 
-5. Agora o seu projecto já possui o estilo do EdvFramework, só resta usá-lo.
+5. Now that your project already has the EdvFramework style, just use it.
